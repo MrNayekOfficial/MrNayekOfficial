@@ -101,13 +101,19 @@ impl Developer for MrNayekOfficial {
 ## 〔 CONTRIBUTION SNAKE 〕
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrNayekOfficial/MrNayekOfficial/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrNayekOfficial/MrNayekOfficial/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrNayekOfficial/MrNayekOfficial/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://github-readme-activity-graph.vercel.app/graph?username=MrNayekOfficial&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff0066&point=ffffff&area=true&hide_border=true" />
+  </picture>
 </p>
+
+> ⚙️ **Snake activates automatically** after the `snake.yml` workflow runs in your profile repo. Until then, the activity graph above is shown as fallback.
 
 ## 〔 DOMINANCE BOARD 〕
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrNayekOfficial&theme=radical&no-frame=true&margin-w=6&margin-h=6&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrNayekOfficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
 </p>
 
 ---
@@ -189,9 +195,11 @@ impl Developer for MrNayekOfficial {
 
 <p align="left">
   <a href="https://github.com/MrNayekOfficial"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffff" /></a>
-  <a href="https://linkedin.com/in/mrnayekofficial"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00aaff" /></a>
+  <a href="https://www.linkedin.com/in/mrnayekofficial"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00aaff" /></a>
+  <a href="https://x.com/MrNayekOfficial"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
+  <a href="https://www.youtube.com/@MrNayekOfficial"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000" /></a>
+  <a href="https://www.instagram.com/MrNayekOfficial"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e1306c" /></a>
   <a href="mailto:mrnayekofficial@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444" /></a>
-  <a href="https://x.com/MrNayekOfficial"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
 </p>
 
 ---
