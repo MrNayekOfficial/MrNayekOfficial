@@ -53,6 +53,9 @@ function formatEvent(event) {
 
   if (type === "PushEvent") {
     const commits = event.payload?.commits?.length || 0;
+    if (commits === 0) {
+      return `- [${when}] PushEvent in \`${repo}\` (branch sync)`;
+    }
     return `- [${when}] PushEvent in \`${repo}\` (${commits} commit${commits === 1 ? "" : "s"})`;
   }
 
@@ -70,17 +73,26 @@ function formatEvent(event) {
 }
 
 function rankFeaturedRepos(repos) {
-  return [...repos]
-    .sort((a, b) => {
-      const starDiff = (b.stargazers_count || 0) - (a.stargazers_count || 0);
-      if (starDiff !== 0) return starDiff;
+  if (repos.length === 0) return [];
+  if (repos.length <= 3) return repos;
 
-      const watchDiff = (b.watchers_count || 0) - (a.watchers_count || 0);
-      if (watchDiff !== 0) return watchDiff;
+  // Diversity strategy: most starred, most recently pushed, most watched
+  const byStars = [...repos].sort((a, b) => (b.stargazers_count || 0) - (a.stargazers_count || 0));
+  const byRecent = [...repos].sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+  const byWatchers = [...repos].sort((a, b) => (b.watchers_count || 0) - (a.watchers_count || 0));
 
-      return new Date(b.pushed_at) - new Date(a.pushed_at);
-    })
-    .slice(0, 3);
+  const featured = [];
+  const seen = new Set();
+
+  for (const candidate of [byStars[0], byRecent[0], byWatchers[0], ...byStars]) {
+    if (candidate && !seen.has(candidate.name)) {
+      featured.push(candidate);
+      seen.add(candidate.name);
+    }
+    if (featured.length >= 3) break;
+  }
+
+  return featured;
 }
 
 function buildFeaturedProjectsSection(repos) {

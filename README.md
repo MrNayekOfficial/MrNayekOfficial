@@ -36,10 +36,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3000&pause=500&color=FF6B9A&background=00000000&center=true&vCenter=true&width=700&lines=%5BLIVE+FEED%5D+coding+in+C;%5BLIVE+FEED%5D+building+with+Python;%5BLIVE+FEED%5D+working+inside+Unix+shell" alt="Live Feed Ticker" />
-</p>
-
 ## 〔 QUICK NAVIGATION 〕
 
 <p align="center">
@@ -112,14 +108,6 @@ status: "Active - Shipping weekly"
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=36&text=MISSION%20SIGNAL%20%3A%20PRECISION%20%7C%20CONSISTENCY%20%7C%20IMPACT&fontSize=15&fontAlign=50&fontColor=e6ffff&color=0:00e7ff,45:0077b6,100:ff2d95&animation=blinking" alt="Mission Signal Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=1200&pause=300&color=00FF66&background=00000000&center=true&vCenter=true&width=700&lines=%24+cmatrix+-b+-u+3+-C+green;%5B+MATRIX+FEED%5D+010101+packet+stream+online;%5B+MATRIX+FEED%5D+threat+monitor+%3A+stable;%5B+MATRIX+FEED%5D+operator+channel+encrypted" alt="CMatrix Style Feed" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&text=ANIMATION%20MODE%20%3A%20TYPE%20%7C%20PULSE%20%7C%20WAVE&fontSize=14&fontAlign=50&fontColor=0b1020&color=0:00e7ff,50:ff2d95,100:00ff88&animation=blinking" alt="Animation Mode Strip" />
 </p>
 
 <br/>
