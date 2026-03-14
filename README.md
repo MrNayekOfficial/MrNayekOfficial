@@ -102,18 +102,22 @@ impl Developer for MrNayekOfficial {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrNayekOfficial/MrNayekOfficial/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrNayekOfficial/MrNayekOfficial/blob/output/github-contribution-grid-snake.svg?raw=true" />
-    <img alt="Contribution Snake" src="https://github-readme-activity-graph.vercel.app/graph?username=MrNayekOfficial&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff0066&point=ffffff&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrNayekOfficial/MrNayekOfficial/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrNayekOfficial/MrNayekOfficial/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Activity Fallback" src="https://github-readme-activity-graph.vercel.app/graph?username=MrNayekOfficial&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff0066&point=ffffff&area=true&hide_border=true" />
   </picture>
 </p>
 
-> ⚙️ **Snake activates automatically** after the `snake.yml` workflow runs in your profile repo. Until then, the activity graph above is shown as fallback.
+> ⚙️ Snake is now configured via GitHub Actions. If the snake is not visible yet, run the `Generate Contribution Snake` workflow once from the Actions tab.
 
 ## 〔 DOMINANCE BOARD 〕
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrNayekOfficial&theme=radical&no-frame=true&column=4&margin-w=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNayekOfficial&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrNayekOfficial&theme=github_dark" />
 </p>
 
 ---
