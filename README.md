@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/main-banner-v2.png" width="100%" alt="Main Hero Banner" />
+  <img src="assets/main-banner.png" width="100%" alt="Main Hero Banner" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ $ deploy_directive --now
 ## 〔 OPERATOR CARD 〕
 
 <p align="center">
-  <img src="assets/operator-picture-v2.png" width="160" height="160" style="max-width: 160px; border-radius: 16px;" alt="MrNayekOfficial Avatar" />
+  <img src="assets/main-profile-picture.png" width="160" height="160" style="max-width: 160px; border-radius: 16px;" alt="MrNayekOfficial Avatar" />
 </p>
 
 <p align="center">
