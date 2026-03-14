@@ -5,15 +5,15 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%5B%20NEURAL%20LINK%20%5D%20PROFILE%20INTERFACE%20ONLINE&fontAlign=50&fontSize=14&fontColor=08111f&color=0:00f5ff,45:00d4ff,100:7cf7d4&animation=blinking" alt="Banner Top Signal" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&text=%5B%20NEURAL%20LINK%20%5D%20PROFILE%20INTERFACE%20ONLINE&fontAlign=50&fontSize=13&fontColor=06131f&color=0:00f5ff,50:00d4ff,100:8cffc1&animation=blinking" alt="Banner Top Signal" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:030712,20:0b1020,45:002b5b,70:00a8cc,100:00f5ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=42&fontSize=78&fontColor=eaffff&animation=twinkling&stroke=00f5ff&strokeWidth=2&desc=SYSTEM%20STATUS%20%3A%20ELITE%20BUILDER%20ONLINE&descAlign=50&descAlignY=70" alt="Main Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=280&color=0:020617,25:0a1830,50:134f76,75:00a8cc,100:00f5ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=42&fontSize=76&fontColor=f4ffff&animation=twinkling&desc=SYSTEM%20STATUS%20%3A%20ELITE%20BUILDER%20ONLINE&descAlign=50&descAlignY=70&stroke=00f5ff&strokeWidth=2" alt="Main Hero Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=15&duration=1400&pause=600&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E%3E+ENTER+COMMAND+CORE;%3E%3E+AUTH+TOKEN+ACCEPTED;%3E%3E+WELCOME+TO+MRNAYEKOFFICIAL" alt="Banner Bottom Signal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=1300&pause=550&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E%3E+ENTER+COMMAND+CORE;%3E%3E+AUTH+TOKEN+ACCEPTED;%3E%3E+WELCOME+TO+MRNAYEKOFFICIAL" alt="Banner Bottom Signal" />
 </p>
 
 <p align="center">
@@ -27,18 +27,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=black" />
-  <img src="https://img.shields.io/badge/THREAT%20LEVEL-ELITE%20BUILDER-ff0066?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&labelColor=0b1020&logo=statuspage&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/THREAT-ELITE%20BUILDER-ff2d95?style=for-the-badge&labelColor=0b1020&logo=hackthebox&logoColor=ff2d95" />
   <br/>
-  <img src="https://img.shields.io/badge/COLLABORATION-OPEN-00d4ff?style=for-the-badge&logo=handshake&logoColor=black" />
+  <img src="https://img.shields.io/badge/COLLAB-OPEN-00d4ff?style=for-the-badge&labelColor=0b1020&logo=handshake&logoColor=00d4ff" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MrNayekOfficial?tab=repositories">
-    <img src="https://img.shields.io/badge/%E2%AD%90_STAR_MY_REPOS-FFCB2B?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/%E2%AD%90_STAR_MY_REPOS-ffcb2b?style=for-the-badge&labelColor=0b1020&logo=github&logoColor=ffcb2b" />
   </a>
   <a href="https://github.com/MrNayekOfficial?tab=followers">
-    <img src="https://img.shields.io/badge/FOLLOW_THE_JOURNEY-1a1a2e?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/FOLLOW_THE_JOURNEY-00e7ff?style=for-the-badge&labelColor=0b1020&logo=github&logoColor=00e7ff" />
   </a>
 </p>
 
@@ -49,10 +49,10 @@
 ## 〔 NEXUS CONTROL PANEL 〕
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NEURAL%20CORE-STABLE-00e7ff?style=for-the-badge&logo=probot&logoColor=black" />
-  <img src="https://img.shields.io/badge/BUILD%20ENGINE-ZERO%20DOWN%20TIME-00ff88?style=for-the-badge&logo=dependabot&logoColor=black" />
+  <img src="https://img.shields.io/badge/NEURAL%20CORE-STABLE-00e7ff?style=for-the-badge&labelColor=0b1020&logo=probot&logoColor=00e7ff" />
+  <img src="https://img.shields.io/badge/BUILD%20ENGINE-ZERO%20DOWN%20TIME-00ff88?style=for-the-badge&labelColor=0b1020&logo=dependabot&logoColor=00ff88" />
   <br/>
-  <img src="https://img.shields.io/badge/CODE%20SIGNAL-HIGH%20INTENSITY-ff2d95?style=for-the-badge&logo=sourcegraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/CODE%20SIGNAL-HIGH%20INTENSITY-ff2d95?style=for-the-badge&labelColor=0b1020&logo=sourcegraph&logoColor=ff2d95" />
 </p>
 
 ```bash
@@ -75,7 +75,7 @@ $ deploy_directive --now
 ## 〔 OPERATOR CARD 〕
 
 <p align="center">
-  <img src="https://github.com/MrNayekOfficial.png?size=260" width="170" style="border-radius: 14%; border: 2px solid #00e7ff;" alt="MrNayekOfficial Avatar" />
+  <img src="https://github.com/MrNayekOfficial.png?size=260" width="170" style="border-radius: 14%; border: 2px solid #00e7ff; box-shadow: 0 0 18px #00d4ff;" alt="MrNayekOfficial Avatar" />
 </p>
 
 <p align="center">
@@ -94,16 +94,16 @@ status: "Active - Shipping weekly"
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrNayekOfficial&label=PROFILE+SCANS&color=00e7ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/MrNayekOfficial?label=OPERATORS&style=for-the-badge&color=00ff88&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/github/followers/MrNayekOfficial?label=OPERATORS&style=for-the-badge&color=00ff88&labelColor=0b1020&logo=github&logoColor=00ff88" />
   <br/>
-  <img src="https://img.shields.io/github/stars/MrNayekOfficial?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=ffcb2b&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/github/stars/MrNayekOfficial?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=ffcb2b&labelColor=0b1020&logo=github&logoColor=ffcb2b" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ALIAS-CODE%20ARCHITECT-0d1117?style=flat-square&logo=gnubash&logoColor=00ffff" />
-  <img src="https://img.shields.io/badge/MODE-FOCUSED%20EXECUTION-0d1117?style=flat-square&logo=linux&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/ALIAS-CODE%20ARCHITECT-0b1020?style=for-the-badge&logo=gnubash&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/MODE-FOCUSED%20EXECUTION-0b1020?style=for-the-badge&logo=linux&logoColor=00ff88" />
   <br/>
-  <img src="https://img.shields.io/badge/UPTIME-24x7%20LEARNING-0d1117?style=flat-square&logo=clockify&logoColor=ff2d95" />
+  <img src="https://img.shields.io/badge/UPTIME-24x7%20LEARNING-0b1020?style=for-the-badge&logo=clockify&logoColor=ff2d95" />
 </p>
 
 <p align="center">
