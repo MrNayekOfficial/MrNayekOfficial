@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1300&pause=500&color=00E7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=78&lines=%5B+MrNayekOfficial+%5D;%3E+SYSTEM+BOOT+COMPLETE" alt="Hero Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1300&pause=500&color=00E7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=78&lines=%5B+MrNayekOfficial+%5D;%3E+SYSTEM+BOOT+COMPLETE" alt="Hero Intro" />
 
 </div>
 
@@ -9,18 +9,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=7CF7D4&background=00000000&center=true&vCenter=true&width=820&lines=%5BSTATUS%5D+CS+Student+%7C+C+%2B+Python;%5BSPECIALITY%5D+C+%2B+Python+%2B+Unix;%5BCURRENT+FOCUS%5D+Clean+code+%2B+DSA+%2B+daily+builds" alt="Profile Status Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=7CF7D4&background=00000000&center=true&vCenter=true&width=700&lines=%5BSTATUS%5D+CS+Student+%7C+C+%2B+Python;%5BSPECIALITY%5D+C+%2B+Python+%2B+Unix;%5BCURRENT+FOCUS%5D+Clean+code+%2B+DSA+%2B+daily+builds" alt="Profile Status Animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MrNayekOfficial?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=1200&pause=1100&color=FFCB2B&background=00000000&center=true&vCenter=true&width=780&lines=STAR+THE+PROJECT+IF+YOU+LIKE+IT;GITHUB+STAR+%E2%98%85+SUPPORTS+THE+NEXT+BUILD;NEW+CODE+SHIPS+EVERY+WEEK" alt="GitHub Star Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=1200&pause=1100&color=FFCB2B&background=00000000&center=true&vCenter=true&width=700&lines=STAR+THE+PROJECT+IF+YOU+LIKE+IT;GITHUB+STAR+%E2%98%85+SUPPORTS+THE+NEXT+BUILD;NEW+CODE+SHIPS+EVERY+WEEK" alt="GitHub Star Animation" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff41?style=for-the-badge&logo=statuspage&logoColor=black" />
   <img src="https://img.shields.io/badge/THREAT%20LEVEL-ELITE%20BUILDER-ff0066?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/COLLABORATION-OPEN-00d4ff?style=for-the-badge&logo=handshake&logoColor=black" />
 </p>
 
@@ -34,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3000&pause=500&color=FF6B9A&background=00000000&center=true&vCenter=true&width=760&lines=%5BLIVE+FEED%5D+coding+in+C;%5BLIVE+FEED%5D+building+with+Python;%5BLIVE+FEED%5D+working+inside+Unix+shell" alt="Live Feed Ticker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3000&pause=500&color=FF6B9A&background=00000000&center=true&vCenter=true&width=700&lines=%5BLIVE+FEED%5D+coding+in+C;%5BLIVE+FEED%5D+building+with+Python;%5BLIVE+FEED%5D+working+inside+Unix+shell" alt="Live Feed Ticker" />
 </p>
 
 ## 〔 NEXUS CONTROL PANEL 〕
@@ -42,6 +43,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NEURAL%20CORE-STABLE-00e7ff?style=for-the-badge&logo=probot&logoColor=black" />
   <img src="https://img.shields.io/badge/BUILD%20ENGINE-ZERO%20DOWN%20TIME-00ff88?style=for-the-badge&logo=dependabot&logoColor=black" />
+  <br/>
   <img src="https://img.shields.io/badge/CODE%20SIGNAL-HIGH%20INTENSITY-ff2d95?style=for-the-badge&logo=sourcegraph&logoColor=white" />
 </p>
 
@@ -80,17 +82,19 @@ status: "Active - Shipping weekly"
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrNayekOfficial&label=PROFILE+SCANS&color=00e7ff&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/MrNayekOfficial?label=OPERATORS&style=for-the-badge&color=00ff88&logo=github&logoColor=black" />
+  <br/>
   <img src="https://img.shields.io/github/stars/MrNayekOfficial?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=ffcb2b&logo=github&logoColor=black" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ALIAS-CODE%20ARCHITECT-0d1117?style=flat-square&logo=gnubash&logoColor=00ffff" />
   <img src="https://img.shields.io/badge/MODE-FOCUSED%20EXECUTION-0d1117?style=flat-square&logo=linux&logoColor=00ff88" />
+  <br/>
   <img src="https://img.shields.io/badge/UPTIME-24x7%20LEARNING-0d1117?style=flat-square&logo=clockify&logoColor=ff2d95" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=00E7FF&background=00000000&center=true&vCenter=true&width=760&lines=%5B+MISSION+SIGNAL+%5D+BUILD+SYSTEMS+THAT+LAST;%5B+MISSION+SIGNAL+%5D+ONE+COMMIT+CAN+START+AN+ERA;%5B+MISSION+SIGNAL+%5D+PRECISION+%7C+CONSISTENCY+%7C+IMPACT" alt="Mission Signal Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=00E7FF&background=00000000&center=true&vCenter=true&width=700&lines=%5B+MISSION+SIGNAL+%5D+BUILD+SYSTEMS+THAT+LAST;%5B+MISSION+SIGNAL+%5D+ONE+COMMIT+CAN+START+AN+ERA;%5B+MISSION+SIGNAL+%5D+PRECISION+%7C+CONSISTENCY+%7C+IMPACT" alt="Mission Signal Banner" />
 </p>
 
 <p align="center">
@@ -281,8 +285,10 @@ impl Developer for MrNayekOfficial {
 <p align="center">
   <a href="https://github.com/MrNayekOfficial"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffff" /></a>
   <a href="https://www.linkedin.com/in/mrnayekofficial"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00aaff" /></a>
+  <br/>
   <a href="https://x.com/MrNayekOfficial"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
   <a href="https://www.youtube.com/@MrNayekOfficial"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000" /></a>
+  <br/>
   <a href="https://www.instagram.com/MrNayekOfficial"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e1306c" /></a>
   <a href="mailto:mrnayekofficial@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444" /></a>
 </p>
@@ -295,7 +301,7 @@ impl Developer for MrNayekOfficial {
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=16&duration=2200&pause=800&color=FFCB2B&background=00000000&center=true&vCenter=true&width=760&lines=%5B+END+TRANSMISSION+%5D+THANKS+FOR+VISITING+THE+COMMAND+CENTER;%5B+END+TRANSMISSION+%5D+FOLLOW+THE+JOURNEY+OF+MRNAYEKOFFICIAL;%5B+END+TRANSMISSION+%5D+NEXT+BUILD+LOADING..." alt="Footer Transmission Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=16&duration=2200&pause=800&color=FFCB2B&background=00000000&center=true&vCenter=true&width=700&lines=%5B+END+TRANSMISSION+%5D+THANKS+FOR+VISITING+THE+COMMAND+CENTER;%5B+END+TRANSMISSION+%5D+FOLLOW+THE+JOURNEY+OF+MRNAYEKOFFICIAL;%5B+END+TRANSMISSION+%5D+NEXT+BUILD+LOADING..." alt="Footer Transmission Banner" />
 </p>
 
 <p align="center">
