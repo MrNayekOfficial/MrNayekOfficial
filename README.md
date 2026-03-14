@@ -176,18 +176,6 @@ impl Developer for MrNayekOfficial {
 
 <!-- FEATURED-PROJECTS:START -->
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/python-programme">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=python-programme&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MrNayekOfficial/Amarargarh_High_School">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=Amarargarh_High_School&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/MrNayekOfficial/MrNayekOfficial">
     <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
