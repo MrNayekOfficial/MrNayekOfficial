@@ -197,15 +197,15 @@ impl Developer for MrNayekOfficial {
 ## 〔 PROOF OF WORK 〕
 
 <p align="center">
-  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=MrNayekOfficial&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=MrNayekOfficial&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff&cache_seconds=21600" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNayekOfficial&theme=radical&hide_border=true&background=0d1117&ring=00ffff&fire=ff0066&currStreakLabel=00ffff" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNayekOfficial&theme=radical&hide_border=true&background=0d1117&ring=00ffff&fire=ff0066&currStreakLabel=00ffff&cache_seconds=21600" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNayekOfficial&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff" />
+  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNayekOfficial&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&cache_seconds=21600" />
 </p>
 
 ## 〔 ACTIVITY GRAPH 〕
