@@ -3,6 +3,12 @@ name: README Auto Update
 on:
   schedule:
     - cron: "0 */6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/auto-update-readme.yml
+      - .github/scripts/update-readme.mjs
 
 permissions:
   contents: write
