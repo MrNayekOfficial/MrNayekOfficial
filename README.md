@@ -344,12 +344,12 @@ impl Developer for MrNayekOfficial {
 - Followers: 5
 - Following: 11
 - Public repos: 1
-- Total stars (owned repos): 2
+- Total stars (owned repos): 0
 - Profile updated: 2026-03-14
 
 ### Top Starred Repositories
 
-- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 2 stars
+- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 0 stars
 
 ### Recently Updated Repositories
 
