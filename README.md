@@ -17,13 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=7CF7D4&background=00000000&center=true&vCenter=true&width=700&lines=%5BSTATUS%5D+CS+Student+%7C+C+%2B+Python;%5BSPECIALITY%5D+C+%2B+Python+%2B+Unix;%5BCURRENT+FOCUS%5D+Clean+code+%2B+DSA+%2B+daily+builds" alt="Profile Status Animation" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/MrNayekOfficial?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=1200&pause=1100&color=FFCB2B&background=00000000&center=true&vCenter=true&width=700&lines=STAR+THE+PROJECT+IF+YOU+LIKE+IT;GITHUB+STAR+%E2%98%85+SUPPORTS+THE+NEXT+BUILD;NEW+CODE+SHIPS+EVERY+WEEK" alt="GitHub Star Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=7CF7D4&background=00000000&center=true&vCenter=true&width=700&lines=%5BSTATUS%5D+CS+Student+%7C+C+%2B+Python;%5BSPECIALTY%5D+C+%2B+Python+%2B+Unix;%5BCURRENT+FOCUS%5D+Clean+code+%2B+DSA+%2B+daily+builds" alt="Profile Status Animation" />
 </p>
 
 <p align="center">
@@ -46,6 +40,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3000&pause=500&color=FF6B9A&background=00000000&center=true&vCenter=true&width=700&lines=%5BLIVE+FEED%5D+coding+in+C;%5BLIVE+FEED%5D+building+with+Python;%5BLIVE+FEED%5D+working+inside+Unix+shell" alt="Live Feed Ticker" />
 </p>
 
+## 〔 QUICK NAVIGATION 〕
+
+<p align="center">
+  <a href="#nexus-control"><img src="https://img.shields.io/badge/NEXUS%20CONTROL-081018?style=for-the-badge&logo=probot&logoColor=00e7ff" /></a>
+  <a href="#featured-projects"><img src="https://img.shields.io/badge/FEATURED%20PROJECTS-081018?style=for-the-badge&logo=github&logoColor=13ffb1" /></a>
+  <a href="#auto-live-intel"><img src="https://img.shields.io/badge/AUTO%20LIVE%20INTEL-081018?style=for-the-badge&logo=githubactions&logoColor=ff7b00" /></a>
+  <a href="#open-channel"><img src="https://img.shields.io/badge/OPEN%20CHANNEL-081018?style=for-the-badge&logo=gmail&logoColor=ff2d95" /></a>
+</p>
+
+<a id="nexus-control"></a>
 ## 〔 NEXUS CONTROL PANEL 〕
 
 <p align="center">
@@ -120,7 +124,7 @@ status: "Active - Shipping weekly"
 
 <br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff7b00,45:00e7ff,100:13ffb1" width="100%" />
 </p>
 
 <br/>
@@ -163,7 +167,40 @@ impl Developer for MrNayekOfficial {
 
 <br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff7b00,45:00e7ff,100:13ffb1" width="100%" />
+</p>
+
+<br/>
+<a id="featured-projects"></a>
+## 〔 FEATURED PROJECTS 〕
+
+<p align="center">
+  <a href="https://github.com/MrNayekOfficial/python-programme">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=python-programme&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MrNayekOfficial/Amarargarh_High_School">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=Amarargarh_High_School&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MrNayekOfficial/MrNayekOfficial">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MrNayekOfficial?tab=repositories">
+    <img src="https://img.shields.io/badge/SEE%20ALL%20PROJECTS-081018?style=for-the-badge&logo=github&logoColor=13ffb1" />
+  </a>
+</p>
+
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff7b00,45:00e7ff,100:13ffb1" width="100%" />
 </p>
 
 <br/>
@@ -209,45 +246,126 @@ impl Developer for MrNayekOfficial {
 
 <br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff7b00,45:00e7ff,100:13ffb1" width="100%" />
 </p>
 
 <br/>
-## 〔 SIGNATURE REPOSITORIES 〕
+## 〔 MR NAYEK OFFICIAL BRAND CORE 〕
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/python-programme">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=python-programme&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=46&text=MR%20NAYEK%20OFFICIAL%20%20%7C%20%20CREATOR%20IDENTITY%20ONLINE&fontSize=18&fontAlign=50&fontColor=e8faff&color=0:00e7ff,45:0077b6,100:ff2d95&animation=blinking" alt="Mr Nayek Official Branding Strip" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/gift">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=gift&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=17&duration=1450&pause=700&color=00F7FF&background=00000000&center=true&vCenter=true&width=780&lines=%5B+MR+NAYEK+OFFICIAL+%5D+ENGINEERING+THE+FUTURE+WITH+DISCIPLINE;%5B+BRAND+DNA+%5D+PRECISION+%7C+CONSISTENCY+%7C+IMPACT;%5B+STATUS+%5D+ACTIVE+%E2%80%94+BUILDING+WEEK+AFTER+WEEK" alt="Brand Signature Animation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/Amarargarh_High_School">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=Amarargarh_High_School&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
-  </a>
+  <img src="https://img.shields.io/badge/BRAND-MR%20NAYEK%20OFFICIAL-00e7ff?style=for-the-badge&labelColor=0b1020&logo=github&logoColor=00e7ff" />
+  <img src="https://img.shields.io/badge/STYLE-CYBER%20CREATOR%20AESTHETIC-ff2d95?style=for-the-badge&labelColor=0b1020&logo=visualstudiocode&logoColor=ff2d95" />
+  <br/>
+  <img src="https://img.shields.io/badge/MOTTO-CODE%20WITH%20PURPOSE-00ff88?style=for-the-badge&labelColor=0b1020&logo=gnubash&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/SIGNAL-RELENTLESS%20EXECUTION-ffcb2b?style=for-the-badge&labelColor=0b1020&logo=dependabot&logoColor=ffcb2b" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/MrNayekOfficial">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&text=IDENTITY%20PROTOCOL%20%3A%20MRNAYEKOFFICIAL%20%7C%20NEXT%20GEN%20BUILDER&fontSize=14&fontAlign=50&fontColor=0b1020&color=0:00f5ff,50:7cf7d4,100:ffcb2b&animation=blinking" alt="Identity Protocol Banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MrNayekOfficial?label=OPERATORS&style=for-the-badge&color=00ff88&labelColor=0b1020&logo=github&logoColor=00ff88" />
+  <img src="https://img.shields.io/github/stars/MrNayekOfficial?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=ffcb2b&labelColor=0b1020&logo=github&logoColor=ffcb2b" />
+  <img src="https://komarev.com/ghpvc/?username=MrNayekOfficial&label=PROFILE%20SCANS&color=00e7ff&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b><code>"This is not a profile card. This is a live command center for serious building."</code></b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=26&text=BRAND%20SIGNAL%20LOCKED%20%3A%20MR%20NAYEK%20OFFICIAL&fontSize=13&fontAlign=50&fontColor=081018&color=0:13ffb1,50:00e7ff,100:ff7b00&animation=blinking" alt="Brand Lock Divider" />
+</p>
+
+## 〔 TROPHY VAULT 〕
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=HALL%20OF%20ACHIEVEMENTS%20%3A%20NEON%20TROPHY%20GRID&fontSize=14&fontAlign=50&fontColor=06131f&color=0:00f5ff,35:ff2d95,70:00ff88,100:ffcb2b&animation=blinking" alt="Neon Trophy Stream Header" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-trophies.vercel.app/?username=MrNayekOfficial&theme=radical&no-frame=true&no-bg=true&margin-w=9&margin-h=9&column=3" alt="GitHub Trophy Board" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACHIEVEMENT%20MODE-ELITE%20UNLOCKED-13ffb1?style=for-the-badge&labelColor=081018&logo=target&logoColor=13ffb1" />
+  <img src="https://img.shields.io/badge/BUILD%20RHYTHM-WEEKLY%20SHIPPING-ff7b00?style=for-the-badge&labelColor=081018&logo=githubactions&logoColor=ff7b00" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MrNayekOfficial?tab=repositories">
-    <img src="https://img.shields.io/badge/ACCESS%20ALL%20REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=00ffff" />
+    <img src="https://img.shields.io/badge/UNLOCK%20MORE%20WINS-VIEW%20ALL%20REPOSITORIES-0b1020?style=for-the-badge&logo=github&logoColor=00e7ff" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=14&duration=1700&pause=700&color=13FFB1&background=00000000&center=true&vCenter=true&width=760&lines=MR+NAYEK+OFFICIAL+%7C+CREATE+LEARN+SHIP+REPEAT;NO+NOISE+ONLY+EXECUTION;NEXT+BREAKTHROUGH+ALREADY+IN+BUILD" alt="Brand Signature Footer" />
 </p>
 
 <br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:13ffb1,50:00e7ff,100:ff7b00" width="100%" />
+</p>
+
+<br/>
+## 〔 CURRENT BUILD FOCUS 〕
+
+```text
+  C SYSTEMS CORE          [########--] 80%
+  PYTHON PROJECT SHIPS    [#######---] 70%
+  DSA EXECUTION TRACK     [######----] 60%
+  OPEN SOURCE CONSISTENCY [#####-----] 50%
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NOW%20BUILDING-C%20%7C%20PYTHON%20%7C%20DSA-13ffb1?style=for-the-badge&labelColor=081018&logo=gnubash&logoColor=13ffb1" />
+</p>
+
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff7b00,45:00e7ff,100:13ffb1" width="100%" />
+</p>
+
+<br/>
+## 〔 30-DAY DELIVERY MAP 〕
+
+```text
+  WEEK 01   Foundation Sprint     -> C/Python core module shipped
+  WEEK 02   Feature Build         -> CLI/API feature with docs
+  WEEK 03   Performance + Testing -> optimization pass + test coverage
+  WEEK 04   Release + Devlog      -> final release and public write-up
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DELIVERY%20MODE-WEEKLY%20RELEASE%20CYCLE-13ffb1?style=for-the-badge&labelColor=081018&logo=githubactions&logoColor=13ffb1" />
+  <img src="https://img.shields.io/badge/QUALITY%20GATE-TEST%20%2B%20DOCS%20%2B%20CLEAN%20CODE-ff7b00?style=for-the-badge&labelColor=081018&logo=vercel&logoColor=ff7b00" />
+</p>
+
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff7b00,45:00e7ff,100:13ffb1" width="100%" />
+</p>
+
+<br/>
+<a id="auto-live-intel"></a>
+## 〔 AUTO LIVE INTEL 〕
+
+<!-- AUTO-DATA:START -->
+_Auto-updating GitHub account telemetry will appear here after the first workflow run._
+<!-- AUTO-DATA:END -->
+
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff7b00,45:00e7ff,100:13ffb1" width="100%" />
 </p>
 
 <br/>
@@ -276,6 +394,7 @@ impl Developer for MrNayekOfficial {
 + [GROW]   Publish high-quality content on MrNayekOfficial Coding
 + [LOCK]   Complete cybersecurity fundamentals via hands-on labs
 ```
+
 ## 〔 STAR PROTOCOL 〕
 
 <p align="center">
@@ -293,10 +412,11 @@ impl Developer for MrNayekOfficial {
 
 <br/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff7b00,45:00e7ff,100:13ffb1" width="100%" />
 </p>
 
 <br/>
+<a id="open-channel"></a>
 ## 〔 OPEN CHANNEL 〕
 
 <p align="center">
@@ -309,8 +429,15 @@ impl Developer for MrNayekOfficial {
   <a href="https://www.instagram.com/MrNayekOfficial"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e1306c" /></a>
   <a href="mailto:mrnayekofficial@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444" /></a>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrNayekOfficial&label=PROFILE+SCANS&color=00ffff&style=for-the-badge" />
+  <b>For collaboration, send scope + timeline on email.</b><br/>
+  <code>Preferred: project build, automation, C/Python systems, debugging support.</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5%3A30)-0d1117?style=for-the-badge&logo=clockify&logoColor=00e7ff" />
+  <img src="https://img.shields.io/badge/Response%20Window-Within%2024%20hours-0d1117?style=for-the-badge&logo=gmail&logoColor=13ffb1" />
 </p>
 
 <p align="center">
@@ -322,5 +449,5 @@ impl Developer for MrNayekOfficial {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:000000,50:0f172a,100:00d4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:081018,45:00e7ff,100:13ffb1" />
 </p>
