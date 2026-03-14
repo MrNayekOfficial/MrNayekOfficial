@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=280&color=0:020617,25:0a1830,50:134f76,75:00a8cc,100:00f5ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=42&fontSize=76&fontColor=f4ffff&animation=twinkling&desc=SYSTEM%20STATUS%20%3A%20ELITE%20BUILDER%20ONLINE&descAlign=50&descAlignY=70&stroke=00f5ff&strokeWidth=2" alt="Main Hero Banner" />
+  <img src="assets/main-banner.png" width="100%" alt="Main Hero Banner" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ $ deploy_directive --now
 ## 〔 OPERATOR CARD 〕
 
 <p align="center">
-  <img src="assets/operator-avatar-rounded.png" width="160" height="160" alt="MrNayekOfficial Avatar" />
+  <img src="assets/operator-picture.png" width="160" height="160" style="max-width: 160px; border-radius: 16px;" alt="MrNayekOfficial Avatar" />
 </p>
 
 <p align="center">
