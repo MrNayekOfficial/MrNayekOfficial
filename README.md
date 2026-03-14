@@ -75,7 +75,7 @@ $ deploy_directive --now
 ## 〔 OPERATOR CARD 〕
 
 <p align="center">
-  <img src="https://github.com/MrNayekOfficial.png?size=260" width="170" style="border-radius: 14%; border: 2px solid #00e7ff; box-shadow: 0 0 18px #00d4ff;" alt="MrNayekOfficial Avatar" />
+  <img src="https://avatars.githubusercontent.com/MrNayekOfficial?s=320" width="160" height="160" style="max-width: 160px; border-radius: 16px; border: 2px solid #00e7ff; box-shadow: 0 0 18px #00d4ff;" alt="MrNayekOfficial Avatar" />
 </p>
 
 <p align="center">
