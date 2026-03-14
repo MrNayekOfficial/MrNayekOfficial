@@ -174,6 +174,7 @@ impl Developer for MrNayekOfficial {
 <a id="featured-projects"></a>
 ## 〔 FEATURED PROJECTS 〕
 
+<!-- FEATURED-PROJECTS:START -->
 <p align="center">
   <a href="https://github.com/MrNayekOfficial/python-programme">
     <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=python-programme&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
@@ -197,6 +198,7 @@ impl Developer for MrNayekOfficial {
     <img src="https://img.shields.io/badge/SEE%20ALL%20PROJECTS-081018?style=for-the-badge&logo=github&logoColor=13ffb1" />
   </a>
 </p>
+<!-- FEATURED-PROJECTS:END -->
 
 <br/>
 <p align="center">

@@ -69,6 +69,53 @@ function formatEvent(event) {
   return `- [${when}] ${type} in \`${repo}\``;
 }
 
+function rankFeaturedRepos(repos) {
+  return [...repos]
+    .sort((a, b) => {
+      const starDiff = (b.stargazers_count || 0) - (a.stargazers_count || 0);
+      if (starDiff !== 0) return starDiff;
+
+      const watchDiff = (b.watchers_count || 0) - (a.watchers_count || 0);
+      if (watchDiff !== 0) return watchDiff;
+
+      return new Date(b.pushed_at) - new Date(a.pushed_at);
+    })
+    .slice(0, 3);
+}
+
+function buildFeaturedProjectsSection(repos) {
+  const lines = [];
+  const featured = rankFeaturedRepos(repos);
+
+  lines.push("<!-- FEATURED-PROJECTS:START -->");
+
+  if (featured.length === 0) {
+    lines.push("<p align=\"center\">No featured repositories available yet.</p>");
+  } else {
+    for (const repo of featured) {
+      lines.push("<p align=\"center\">");
+      lines.push(`  <a href=\"${repo.html_url}\">`);
+      lines.push(
+        `    <img width=\"95%\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${encodeURIComponent(repo.name)}&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff\" />`
+      );
+      lines.push("  </a>");
+      lines.push("</p>");
+      lines.push("");
+    }
+  }
+
+  lines.push("<p align=\"center\">");
+  lines.push(`  <a href=\"https://github.com/${username}?tab=repositories\">`);
+  lines.push(
+    "    <img src=\"https://img.shields.io/badge/SEE%20ALL%20PROJECTS-081018?style=for-the-badge&logo=github&logoColor=13ffb1\" />"
+  );
+  lines.push("  </a>");
+  lines.push("</p>");
+  lines.push("<!-- FEATURED-PROJECTS:END -->");
+
+  return lines.join("\n");
+}
+
 function buildAutoSection({ user, repos, events }) {
   const owned = repos.filter((repo) => repo.owner?.login?.toLowerCase() === username.toLowerCase());
   const nonForkOwned = owned.filter((repo) => !repo.fork);
@@ -149,6 +196,10 @@ if (!readme.includes("<!-- AUTO-DATA:START -->") || !readme.includes("<!-- AUTO-
   throw new Error("README markers AUTO-DATA:START/END not found.");
 }
 
+if (!readme.includes("<!-- FEATURED-PROJECTS:START -->") || !readme.includes("<!-- FEATURED-PROJECTS:END -->")) {
+  throw new Error("README markers FEATURED-PROJECTS:START/END not found.");
+}
+
 const [user, repos, events] = await Promise.all([
   gh(`/users/${username}`),
   getAllRepos(username),
@@ -156,7 +207,11 @@ const [user, repos, events] = await Promise.all([
 ]);
 
 const autoBlock = buildAutoSection({ user, repos, events });
-const updatedReadme = readme.replace(/<!-- AUTO-DATA:START -->[\s\S]*?<!-- AUTO-DATA:END -->/, autoBlock);
+const owned = repos.filter((repo) => repo.owner?.login?.toLowerCase() === username.toLowerCase() && !repo.fork);
+const featuredBlock = buildFeaturedProjectsSection(owned);
+
+let updatedReadme = readme.replace(/<!-- FEATURED-PROJECTS:START -->[\s\S]*?<!-- FEATURED-PROJECTS:END -->/, featuredBlock);
+updatedReadme = updatedReadme.replace(/<!-- AUTO-DATA:START -->[\s\S]*?<!-- AUTO-DATA:END -->/, autoBlock);
 
 if (updatedReadme !== readme) {
   await writeFile(readmePath, updatedReadme, "utf8");
