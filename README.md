@@ -59,16 +59,14 @@
 
 ## 〔 OPERATOR CARD 〕
 
-<table align="center" width="92%">
-  <tr>
-    <td width="220" align="center">
-      <img src="https://github.com/MrNayekOfficial.png?size=260" width="160" style="border-radius: 18%; border: 2px solid #00e7ff;" alt="MrNayekOfficial Avatar" />
-      <br/>
-      <sub><b>PRIMARY OPERATOR</b></sub>
-      <br/>
-      <code>@MrNayekOfficial</code>
-    </td>
-    <td align="left" width="70%">
+<p align="center">
+  <img src="https://github.com/MrNayekOfficial.png?size=260" width="170" style="border-radius: 18%; border: 2px solid #00e7ff;" alt="MrNayekOfficial Avatar" />
+</p>
+
+<p align="center">
+  <sub><b>PRIMARY OPERATOR</b></sub><br/>
+  <code>@MrNayekOfficial</code>
+</p>
 
 ```yaml
 operator: Biswajit Nayek
@@ -78,10 +76,6 @@ location: India
 focus: ["C Systems", "Python", "Unix"]
 status: "Active - Shipping weekly"
 ```
-
-  </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrNayekOfficial&label=PROFILE+SCANS&color=00e7ff&style=for-the-badge" />
@@ -143,7 +137,7 @@ impl Developer for MrNayekOfficial {
 ## 〔 TECH ARSENAL 〕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,vscode&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,vscode&perline=4&theme=dark" />
 </p>
 
 <br/>
@@ -155,18 +149,21 @@ impl Developer for MrNayekOfficial {
 ## 〔 PROOF OF WORK 〕
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MrNayekOfficial&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
-  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNayekOfficial&theme=radical&hide_border=true&background=0d1117&ring=00ffff&fire=ff0066&currStreakLabel=00ffff" />
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=MrNayekOfficial&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNayekOfficial&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNayekOfficial&theme=radical&hide_border=true&background=0d1117&ring=00ffff&fire=ff0066&currStreakLabel=00ffff" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNayekOfficial&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff" />
 </p>
 
 ## 〔 ACTIVITY GRAPH 〕
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNayekOfficial&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff0066&point=ffffff&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrNayekOfficial&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff0066&point=ffffff&hide_border=true" />
 </p>
 
 ## 〔 CONTRIBUTION SNAKE 〕
@@ -182,11 +179,11 @@ impl Developer for MrNayekOfficial {
 ## 〔 DOMINANCE BOARD 〕
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNayekOfficial&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNayekOfficial&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrNayekOfficial&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrNayekOfficial&theme=github_dark" />
 </p>
 
 <br/>
@@ -199,19 +196,25 @@ impl Developer for MrNayekOfficial {
 
 <p align="center">
   <a href="https://github.com/MrNayekOfficial/python-programme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=python-programme&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=python-programme&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/MrNayekOfficial/gift">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=gift&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=gift&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MrNayekOfficial/Amarargarh_High_School">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=Amarargarh_High_School&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=Amarargarh_High_School&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/MrNayekOfficial/MrNayekOfficial">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
@@ -275,7 +278,7 @@ impl Developer for MrNayekOfficial {
 <br/>
 ## 〔 OPEN CHANNEL 〕
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/MrNayekOfficial"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffff" /></a>
   <a href="https://www.linkedin.com/in/mrnayekofficial"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00aaff" /></a>
   <a href="https://x.com/MrNayekOfficial"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" /></a>
@@ -292,7 +295,7 @@ impl Developer for MrNayekOfficial {
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=16&duration=2200&pause=800&color=FFCB2B&background=00000000&center=true&vCenter=true&width=980&lines=%5B+END+TRANSMISSION+%5D+THANKS+FOR+VISITING+THE+COMMAND+CENTER;%5B+END+TRANSMISSION+%5D+FOLLOW+THE+JOURNEY+OF+MRNAYEKOFFICIAL;%5B+END+TRANSMISSION+%5D+NEXT+BUILD+LOADING..." alt="Footer Transmission Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=16&duration=2200&pause=800&color=FFCB2B&background=00000000&center=true&vCenter=true&width=760&lines=%5B+END+TRANSMISSION+%5D+THANKS+FOR+VISITING+THE+COMMAND+CENTER;%5B+END+TRANSMISSION+%5D+FOLLOW+THE+JOURNEY+OF+MRNAYEKOFFICIAL;%5B+END+TRANSMISSION+%5D+NEXT+BUILD+LOADING..." alt="Footer Transmission Banner" />
 </p>
 
 <p align="center">
