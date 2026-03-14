@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - .github/workflows/auto-update-readme.yml
+      - .github/refresh-trigger.txt
       - .github/scripts/update-readme.mjs
 
 permissions:
