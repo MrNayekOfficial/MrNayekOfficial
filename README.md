@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=1400&pause=500&color=00E7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=90&lines=%5B+MrNayekOfficial+%5D;%3E+SYSTEM+BOOT+COMPLETE" alt="Hero Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=1300&pause=500&color=00E7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=78&lines=%5B+MrNayekOfficial+%5D;%3E+SYSTEM+BOOT+COMPLETE" alt="Hero Intro" />
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:020617,35:0b1f3a,70:123a64,100:00d4ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=48&fontSize=72&fontColor=00f0ff&animation=twinkling&desc=Code%20Architect%20%7C%20C%20%2B%20Python%20%2B%20Unix&descAlign=50&descAlignY=72&stroke=00e7ff&strokeWidth=1" alt="Main Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,25:0b1f3a,55:164e63,100:00d4ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=42&fontSize=70&fontColor=00f0ff&animation=fadeIn&desc=Code%20Architect%20%7C%20C%20%2B%20Python%20%2B%20Unix&descAlign=50&descAlignY=68" alt="Main Hero Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=850&color=7CF7D4&background=00000000&center=true&vCenter=true&width=1080&lines=%5BSTATUS%5D+CS+Student+%7C+C+%2B+Python;%5BSPECIALITY%5D+C+%2B+Python+%2B+Unix;%5BCURRENT+FOCUS%5D+Write+clean+code%2C+solve+DSA%2C+improve+daily" alt="Profile Status Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=7CF7D4&background=00000000&center=true&vCenter=true&width=820&lines=%5BSTATUS%5D+CS+Student+%7C+C+%2B+Python;%5BSPECIALITY%5D+C+%2B+Python+%2B+Unix;%5BCURRENT+FOCUS%5D+Clean+code+%2B+DSA+%2B+daily+builds" alt="Profile Status Animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MrNayekOfficial?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=1100&pause=1200&color=FFCB2B&background=00000000&center=true&vCenter=true&width=860&lines=STAR+THE+PROJECT+IF+YOU+LIKE+IT;GITHUB+STAR+%E2%98%85+SUPPORTS+THE+NEXT+BUILD;NEW+CODE+SHIPS+EVERY+WEEK" alt="GitHub Star Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=1200&pause=1100&color=FFCB2B&background=00000000&center=true&vCenter=true&width=780&lines=STAR+THE+PROJECT+IF+YOU+LIKE+IT;GITHUB+STAR+%E2%98%85+SUPPORTS+THE+NEXT+BUILD;NEW+CODE+SHIPS+EVERY+WEEK" alt="GitHub Star Animation" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3200&pause=500&color=FF6B9A&background=00000000&center=true&vCenter=true&width=900&lines=%5BLIVE+FEED%5D+coding+in+C;%5BLIVE+FEED%5D+building+with+Python;%5BLIVE+FEED%5D+working+inside+Unix+shell" alt="Live Feed Ticker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3000&pause=500&color=FF6B9A&background=00000000&center=true&vCenter=true&width=760&lines=%5BLIVE+FEED%5D+coding+in+C;%5BLIVE+FEED%5D+building+with+Python;%5BLIVE+FEED%5D+working+inside+Unix+shell" alt="Live Feed Ticker" />
 </p>
 
 ## 〔 NEXUS CONTROL PANEL 〕
@@ -59,23 +59,23 @@
 
 ## 〔 OPERATOR CARD 〕
 
-<table align="center">
+<table align="center" width="92%">
   <tr>
     <td width="220" align="center">
-      <img src="https://github.com/MrNayekOfficial.png?size=260" width="160" style="border-radius: 50%;" alt="MrNayekOfficial Avatar" />
+      <img src="https://github.com/MrNayekOfficial.png?size=260" width="160" style="border-radius: 18%; border: 2px solid #00e7ff;" alt="MrNayekOfficial Avatar" />
       <br/>
       <sub><b>PRIMARY OPERATOR</b></sub>
       <br/>
       <code>@MrNayekOfficial</code>
     </td>
-    <td align="left">
+    <td align="left" width="70%">
 
 ```yaml
 operator: Biswajit Nayek
 designation: Elite Builder
 channel: MrNayekOfficial
 location: India
-focus: ["C Systems", "Python Automation", "Unix Workflow"]
+focus: ["C Systems", "Python", "Unix"]
 status: "Active - Shipping weekly"
 ```
 
@@ -96,7 +96,11 @@ status: "Active - Shipping weekly"
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2100&pause=700&color=00E7FF&background=00000000&center=true&vCenter=true&width=980&lines=%5B+MISSION+SIGNAL+%5D+BUILD+SYSTEMS+THAT+LAST;%5B+MISSION+SIGNAL+%5D+ONE+COMMIT+CAN+START+AN+ERA;%5B+MISSION+SIGNAL+%5D+PRECISION+%7C+CONSISTENCY+%7C+IMPACT" alt="Mission Signal Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=00E7FF&background=00000000&center=true&vCenter=true&width=760&lines=%5B+MISSION+SIGNAL+%5D+BUILD+SYSTEMS+THAT+LAST;%5B+MISSION+SIGNAL+%5D+ONE+COMMIT+CAN+START+AN+ERA;%5B+MISSION+SIGNAL+%5D+PRECISION+%7C+CONSISTENCY+%7C+IMPACT" alt="Mission Signal Banner" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&text=ANIMATION%20MODE%20%3A%20TYPE%20%7C%20PULSE%20%7C%20WAVE&fontSize=14&fontAlign=50&fontColor=0b1020&color=0:00e7ff,50:ff2d95,100:00ff88&animation=blinking" alt="Animation Mode Strip" />
 </p>
 
 <br/>
