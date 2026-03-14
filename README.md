@@ -37,8 +37,74 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3200&pause=500&color=FF6B9A&background=00000000&center=true&vCenter=true&width=900&lines=%5BLIVE+FEED%5D+coding+in+C;%5BLIVE+FEED%5D+building+with+Python;%5BLIVE+FEED%5D+working+inside+Unix+shell" alt="Live Feed Ticker" />
 </p>
 
----
+## 〔 NEXUS CONTROL PANEL 〕
 
+<p align="center">
+  <img src="https://img.shields.io/badge/NEURAL%20CORE-STABLE-00e7ff?style=for-the-badge&logo=probot&logoColor=black" />
+  <img src="https://img.shields.io/badge/BUILD%20ENGINE-ZERO%20DOWN%20TIME-00ff88?style=for-the-badge&logo=dependabot&logoColor=black" />
+  <img src="https://img.shields.io/badge/CODE%20SIGNAL-HIGH%20INTENSITY-ff2d95?style=for-the-badge&logo=sourcegraph&logoColor=white" />
+</p>
+
+```text
+> boot_sequence --profile MrNayekOfficial
+[OK] Identity handshake complete
+[OK] Toolchain online: C / Python / Unix
+[OK] Target lock: clean architecture + fast execution
+[RUN] Directive: turn ideas into shippable systems
+```
+
+<p align="center">
+  <b><code>"Code that survives pressure is the only code worth shipping."</code></b>
+</p>
+
+## 〔 OPERATOR CARD 〕
+
+<table align="center">
+  <tr>
+    <td width="220" align="center">
+      <img src="https://avatars.githubusercontent.com/u/172020355?v=4" width="160" style="border-radius: 50%;" alt="MrNayekOfficial Avatar" />
+      <br/>
+      <sub><b>PRIMARY OPERATOR</b></sub>
+      <br/>
+      <code>@MrNayekOfficial</code>
+    </td>
+    <td align="left">
+
+```yaml
+operator: Biswajit Nayek
+designation: Elite Builder
+channel: MrNayekOfficial
+location: India
+focus: ["C Systems", "Python Automation", "Unix Workflow"]
+status: "Active - Shipping weekly"
+```
+
+  </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrNayekOfficial&label=PROFILE+SCANS&color=00e7ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/MrNayekOfficial?label=OPERATORS&style=for-the-badge&color=00ff88&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/github/stars/MrNayekOfficial?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=ffcb2b&logo=github&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ALIAS-CODE%20ARCHITECT-0d1117?style=flat-square&logo=gnubash&logoColor=00ffff" />
+  <img src="https://img.shields.io/badge/MODE-FOCUSED%20EXECUTION-0d1117?style=flat-square&logo=linux&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/UPTIME-24x7%20LEARNING-0d1117?style=flat-square&logo=clockify&logoColor=ff2d95" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2100&pause=700&color=00E7FF&background=00000000&center=true&vCenter=true&width=980&lines=%5B+MISSION+SIGNAL+%5D+BUILD+SYSTEMS+THAT+LAST;%5B+MISSION+SIGNAL+%5D+ONE+COMMIT+CAN+START+AN+ERA;%5B+MISSION+SIGNAL+%5D+PRECISION+%7C+CONSISTENCY+%7C+IMPACT" alt="Mission Signal Banner" />
+</p>
+
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+</p>
+
+<br/>
 ## 〔 SYSTEM IDENTITY 〕
 
 ```bash
@@ -58,9 +124,6 @@
   > Continuously building since day one. No downtime.    
 
 ```
-
----
-
 ## 〔 SKILL MATRIX 〕
 
 ```rust
@@ -79,8 +142,12 @@ impl Developer for MrNayekOfficial {
   <img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,vscode&perline=8&theme=dark" />
 </p>
 
----
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+</p>
 
+<br/>
 ## 〔 PROOF OF WORK 〕
 
 <p align="center">
@@ -108,8 +175,6 @@ impl Developer for MrNayekOfficial {
   </picture>
 </p>
 
-> ⚙️ Snake is now configured via GitHub Actions. If the snake is not visible yet, run the `Generate Contribution Snake` workflow once from the Actions tab.
-
 ## 〔 DOMINANCE BOARD 〕
 
 <p align="center">
@@ -120,8 +185,12 @@ impl Developer for MrNayekOfficial {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrNayekOfficial&theme=github_dark" />
 </p>
 
----
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+</p>
 
+<br/>
 ## 〔 SIGNATURE REPOSITORIES 〕
 
 <p align="center">
@@ -148,8 +217,12 @@ impl Developer for MrNayekOfficial {
   </a>
 </p>
 
----
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+</p>
 
+<br/>
 ## 〔 MISSION TIMELINE 〕
 
 ```text
@@ -175,9 +248,6 @@ impl Developer for MrNayekOfficial {
 + [GROW]   Publish high-quality content on MrNayekOfficial Coding
 + [LOCK]   Complete cybersecurity fundamentals via hands-on labs
 ```
-
----
-
 ## 〔 STAR PROTOCOL 〕
 
 <p align="center">
@@ -193,8 +263,12 @@ impl Developer for MrNayekOfficial {
   </a>
 </p>
 
----
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00e7ff,50:ff2d95,100:00ff88" width="100%" />
+</p>
 
+<br/>
 ## 〔 OPEN CHANNEL 〕
 
 <p align="left">
@@ -205,15 +279,16 @@ impl Developer for MrNayekOfficial {
   <a href="https://www.instagram.com/MrNayekOfficial"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e1306c" /></a>
   <a href="mailto:mrnayekofficial@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444" /></a>
 </p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrNayekOfficial&label=PROFILE+SCANS&color=00ffff&style=for-the-badge" />
 </p>
 
 <p align="center">
   <b><code>"The era doesn't shape me. I shape the era."</code></b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=16&duration=2200&pause=800&color=FFCB2B&background=00000000&center=true&vCenter=true&width=980&lines=%5B+END+TRANSMISSION+%5D+THANKS+FOR+VISITING+THE+COMMAND+CENTER;%5B+END+TRANSMISSION+%5D+FOLLOW+THE+JOURNEY+OF+MRNAYEKOFFICIAL;%5B+END+TRANSMISSION+%5D+NEXT+BUILD+LOADING..." alt="Footer Transmission Banner" />
 </p>
 
 <p align="center">
