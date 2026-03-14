@@ -28,6 +28,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/PROFILE%20EDITION-ELEGANT%20V3-081018?style=for-the-badge&logo=github&logoColor=13ffb1" />
+  <img src="https://img.shields.io/badge/UPDATE%20MODE-AUTO%20EVERY%206H-081018?style=for-the-badge&logo=githubactions&logoColor=00e7ff" />
+</p>
+
+<p align="center">
   <a href="https://github.com/MrNayekOfficial?tab=repositories">
     <img src="https://img.shields.io/badge/%E2%AD%90_STAR_MY_REPOS-ffcb2b?style=for-the-badge&labelColor=0b1020&logo=github&logoColor=ffcb2b" />
   </a>
