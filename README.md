@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=MrNayekOfficial&fontAlign=50&fontAlignY=45&color=0:000000,30:0f172a,60:1e3a5f,100:00d4ff&fontColor=00ffff&strokeWidth=2&stroke=00d4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:020617,35:0b1f3a,70:123a64,100:00d4ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=48&fontSize=72&fontColor=00f0ff&animation=twinkling&desc=Code%20Architect%20%7C%20C%20%2B%20Python%20%2B%20Unix&descAlign=50&descAlignY=72&stroke=00e7ff&strokeWidth=1" alt="Main Hero Banner" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 <table align="center">
   <tr>
     <td width="220" align="center">
-      <img src="https://avatars.githubusercontent.com/u/172020355?v=4" width="160" style="border-radius: 50%;" alt="MrNayekOfficial Avatar" />
+      <img src="https://github.com/MrNayekOfficial.png?size=260" width="160" style="border-radius: 50%;" alt="MrNayekOfficial Avatar" />
       <br/>
       <sub><b>PRIMARY OPERATOR</b></sub>
       <br/>
