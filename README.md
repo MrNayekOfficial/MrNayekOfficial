@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,25:0b1f3a,55:164e63,100:00d4ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=42&fontSize=70&fontColor=00f0ff&animation=fadeIn&desc=Code%20Architect%20%7C%20C%20%2B%20Python%20%2B%20Unix&descAlign=50&descAlignY=68" alt="Main Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:020617,22:08152a,48:103d63,78:00bcd4,100:00e7ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=40&fontSize=68&fontColor=e6ffff&animation=fadeIn&desc=Elite%20Builder%20%7C%20Cyber%20Code%20Mode%20Active&descAlign=50&descAlignY=66&stroke=00e7ff&strokeWidth=2" alt="Main Hero Banner" />
 </p>
 
 <p align="center">
@@ -47,12 +47,17 @@
   <img src="https://img.shields.io/badge/CODE%20SIGNAL-HIGH%20INTENSITY-ff2d95?style=for-the-badge&logo=sourcegraph&logoColor=white" />
 </p>
 
-```text
-> boot_sequence --profile MrNayekOfficial
-[OK] Identity handshake complete
-[OK] Toolchain online: C / Python / Unix
-[OK] Target lock: clean architecture + fast execution
-[RUN] Directive: turn ideas into shippable systems
+```bash
+$ boot_sequence --profile MrNayekOfficial
+> [OK] identity handshake complete
+> [OK] toolchain online: C / Python / Unix
+
+$ security_scan --mode elite
+> [PASS] shell hardening active
+> [PASS] repo signal stable
+
+$ deploy_directive --now
+> [RUN] ship reliable systems, every week
 ```
 
 <p align="center">
@@ -62,7 +67,7 @@
 ## 〔 OPERATOR CARD 〕
 
 <p align="center">
-  <img src="https://github.com/MrNayekOfficial.png?size=260" width="170" style="border-radius: 18%; border: 2px solid #00e7ff;" alt="MrNayekOfficial Avatar" />
+  <img src="https://github.com/MrNayekOfficial.png?size=260" width="170" style="border-radius: 14%; border: 2px solid #00e7ff;" alt="MrNayekOfficial Avatar" />
 </p>
 
 <p align="center">
@@ -94,7 +99,11 @@ status: "Active - Shipping weekly"
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&duration=2000&pause=700&color=00E7FF&background=00000000&center=true&vCenter=true&width=700&lines=%5B+MISSION+SIGNAL+%5D+BUILD+SYSTEMS+THAT+LAST;%5B+MISSION+SIGNAL+%5D+ONE+COMMIT+CAN+START+AN+ERA;%5B+MISSION+SIGNAL+%5D+PRECISION+%7C+CONSISTENCY+%7C+IMPACT" alt="Mission Signal Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=36&text=MISSION%20SIGNAL%20%3A%20PRECISION%20%7C%20CONSISTENCY%20%7C%20IMPACT&fontSize=15&fontAlign=50&fontColor=e6ffff&color=0:00e7ff,45:0077b6,100:ff2d95&animation=blinking" alt="Mission Signal Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=1200&pause=300&color=00FF66&background=00000000&center=true&vCenter=true&width=700&lines=%24+cmatrix+-b+-u+3+-C+green;%5B+MATRIX+FEED%5D+010101+packet+stream+online;%5B+MATRIX+FEED%5D+threat+monitor+%3A+stable;%5B+MATRIX+FEED%5D+operator+channel+encrypted" alt="CMatrix Style Feed" />
 </p>
 
 <p align="center">
