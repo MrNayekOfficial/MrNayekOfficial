@@ -1,14 +1,6 @@
 <div align="center">
 
-```
-              
-     
-     
-      
-               
-                   
-            O F F I C I A L    B I S W A J I T  N A Y E K
-```
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=1400&pause=500&color=00E7FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=90&lines=%5B+MrNayekOfficial+%5D;%3E+SYSTEM+BOOT+COMPLETE" alt="Hero Intro" />
 
 </div>
 
@@ -17,7 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2200&pause=600&color=00FFFF&background=00000000&center=true&vCenter=true&width=1050&lines=%5BSYSTEM+BOOT%5D+...+Loading+MrNayekOfficial+...;%5BSTATUS%5D+Computer+Science+Student+%7C+Full-Stack+Developer;%5BMODE%5D+Building+real+products%2C+not+just+writing+code;%5BSPECIALITY%5D+Full-Stack+%2B+Cybersecurity+%2B+DSA;%5BMISSION%5D+Architect+the+next+era+of+software+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=850&color=7CF7D4&background=00000000&center=true&vCenter=true&width=1080&lines=%5BSTATUS%5D+CS+Student+%7C+C+%2B+Python;%5BSPECIALITY%5D+C+%2B+Python+%2B+Unix;%5BCURRENT+FOCUS%5D+Write+clean+code%2C+solve+DSA%2C+improve+daily" alt="Profile Status Animation" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/MrNayekOfficial?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=17&duration=1100&pause=1200&color=FFCB2B&background=00000000&center=true&vCenter=true&width=860&lines=STAR+THE+PROJECT+IF+YOU+LIKE+IT;GITHUB+STAR+%E2%98%85+SUPPORTS+THE+NEXT+BUILD;NEW+CODE+SHIPS+EVERY+WEEK" alt="GitHub Star Animation" />
+  </a>
 </p>
 
 <p align="center">
@@ -35,6 +33,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=3200&pause=500&color=FF6B9A&background=00000000&center=true&vCenter=true&width=900&lines=%5BLIVE+FEED%5D+coding+in+C;%5BLIVE+FEED%5D+building+with+Python;%5BLIVE+FEED%5D+working+inside+Unix+shell" alt="Live Feed Ticker" />
+</p>
+
 ---
 
 ## 〔 SYSTEM IDENTITY 〕
@@ -46,10 +48,10 @@
                                                           
   $ cat /etc/profile                                      
   > NAME    : Biswajit Nayek                              
-  > ROLE    : CS Student | Full-Stack Dev | Builder       
+  > ROLE    : CS Student | C & Python Developer            
   > BASE    : India                                       
-  > STACK   : C / C++ / Python / JS / React / Node.js    
-  > TRACK   : Web Eng + Cybersecurity + Open Source       
+  > STACK   : C / Python / Unix                            
+  > TRACK   : Core Programming + DSA + Open Source         
   > MISSION : Engineer the next era, one commit at a time 
                                                           
   $ uptime                                                
@@ -63,20 +65,18 @@
 
 ```rust
 impl Developer for MrNayekOfficial {
-    fn languages()  -> Vec<&'static str> { vec!["C","C++","Python","JavaScript","TypeScript"] }
-    fn frontend()   -> Vec<&'static str> { vec!["HTML5","CSS3","React","Responsive Design"] }
-    fn backend()    -> Vec<&'static str> { vec!["Node.js","Express.js","REST APIs"] }
-    fn databases()  -> Vec<&'static str> { vec!["MongoDB","MySQL"] }
-    fn toolchain()  -> Vec<&'static str> { vec!["Git","GitHub","VS Code","Linux","Bash"] }
-    fn currently()  -> Vec<&'static str> { vec!["Advanced Web Dev","Cybersecurity Labs","DSA"] }
-    fn superpower() -> &'static str      { "Turning ambition into deployable, real-world code." }
+  fn languages()  -> Vec<&'static str> { vec!["C","Python"] }
+  fn systems()    -> Vec<&'static str> { vec!["Unix","Linux","Bash"] }
+  fn toolchain()  -> Vec<&'static str> { vec!["Git","GitHub","VS Code"] }
+  fn currently()  -> Vec<&'static str> { vec!["C Programming","Python Projects","DSA"] }
+  fn superpower() -> &'static str      { "Building strong fundamentals with C, Python, and Unix." }
 }
 ```
 
 ## 〔 TECH ARSENAL 〕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,vscode&perline=8&theme=dark" />
 </p>
 
 ---
@@ -102,8 +102,8 @@ impl Developer for MrNayekOfficial {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrNayekOfficial/MrNayekOfficial/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrNayekOfficial/MrNayekOfficial/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MrNayekOfficial/MrNayekOfficial/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MrNayekOfficial/MrNayekOfficial/blob/output/github-contribution-grid-snake.svg?raw=true" />
     <img alt="Contribution Snake" src="https://github-readme-activity-graph.vercel.app/graph?username=MrNayekOfficial&theme=react-dark&bg_color=0d1117&color=00ffff&line=ff0066&point=ffffff&area=true&hide_border=true" />
   </picture>
 </p>
@@ -113,7 +113,7 @@ impl Developer for MrNayekOfficial {
 ## 〔 DOMINANCE BOARD 〕
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrNayekOfficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrNayekOfficial&theme=radical&no-frame=true&column=4&margin-w=8" />
 </p>
 
 ---
@@ -151,7 +151,7 @@ impl Developer for MrNayekOfficial {
 ```text
   
   PHASE 01    [COMPLETE]   DSA Foundations
-  PHASE 02    [ACTIVE  ]   Full-Stack Engineering
+  PHASE 02    [ACTIVE  ]   C and Python Development
   PHASE 03    [LOADING ]   Open Source Contribution
   PHASE 04    [LOCKED  ]   Cybersecurity Depth
   
@@ -165,7 +165,7 @@ impl Developer for MrNayekOfficial {
 ## 〔 2026 EXECUTION ORDERS 〕
 
 ```diff
-+ [SHIP]   Build 3 production-ready full-stack applications
++ [SHIP]   Build 3 strong C/Python projects
 + [CODE]   Solve 500+ DSA problems with precision and speed
 + [GIVE]   Contribute meaningful PRs to 10+ open-source repos
 + [GROW]   Publish high-quality content on MrNayekOfficial Coding
