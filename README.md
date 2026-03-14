@@ -175,6 +175,12 @@ impl Developer for MrNayekOfficial {
 </p>
 
 <p align="center">
+  <a href="https://github.com/MrNayekOfficial/hankin">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=hankin&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/MrNayekOfficial?tab=repositories">
     <img src="https://img.shields.io/badge/SEE%20ALL%20PROJECTS-081018?style=for-the-badge&logo=github&logoColor=13ffb1" />
   </a>
@@ -348,17 +354,19 @@ impl Developer for MrNayekOfficial {
 - Profile: [@MrNayekOfficial](https://github.com/MrNayekOfficial)
 - Followers: 5
 - Following: 11
-- Public repos: 1
+- Public repos: 2
 - Total stars (owned repos): 0
 - Profile updated: 2026-03-14
 
 ### Top Starred Repositories
 
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 0 stars
+- [hankin](https://github.com/MrNayekOfficial/hankin) - 0 stars
 
 ### Recently Updated Repositories
 
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-03-14
+- [hankin](https://github.com/MrNayekOfficial/hankin) - pushed 2026-03-14
 
 ### Recent Public Activity
 
