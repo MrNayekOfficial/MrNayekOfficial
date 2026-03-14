@@ -5,7 +5,15 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:020617,22:08152a,48:103d63,78:00bcd4,100:00e7ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=40&fontSize=68&fontColor=e6ffff&animation=fadeIn&desc=Elite%20Builder%20%7C%20Cyber%20Code%20Mode%20Active&descAlign=50&descAlignY=66&stroke=00e7ff&strokeWidth=2" alt="Main Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%5B%20NEURAL%20LINK%20%5D%20PROFILE%20INTERFACE%20ONLINE&fontAlign=50&fontSize=14&fontColor=08111f&color=0:00f5ff,45:00d4ff,100:7cf7d4&animation=blinking" alt="Banner Top Signal" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:030712,20:0b1020,45:002b5b,70:00a8cc,100:00f5ff&text=MrNayekOfficial&fontAlign=50&fontAlignY=42&fontSize=78&fontColor=eaffff&animation=twinkling&stroke=00f5ff&strokeWidth=2&desc=SYSTEM%20STATUS%20%3A%20ELITE%20BUILDER%20ONLINE&descAlign=50&descAlignY=70" alt="Main Hero Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=15&duration=1400&pause=600&color=00FF9C&background=00000000&center=true&vCenter=true&width=700&lines=%3E%3E+ENTER+COMMAND+CORE;%3E%3E+AUTH+TOKEN+ACCEPTED;%3E%3E+WELCOME+TO+MRNAYEKOFFICIAL" alt="Banner Bottom Signal" />
 </p>
 
 <p align="center">
