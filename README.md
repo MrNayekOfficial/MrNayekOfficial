@@ -169,6 +169,12 @@ impl Developer for MrNayekOfficial {
 
 <!-- FEATURED-PROJECTS:START -->
 <p align="center">
+  <a href="https://github.com/MrNayekOfficial/Proposal">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=Proposal&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/MrNayekOfficial/MrNayekOfficial">
     <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
@@ -348,20 +354,24 @@ impl Developer for MrNayekOfficial {
 - Profile: [@MrNayekOfficial](https://github.com/MrNayekOfficial)
 - Followers: 6
 - Following: 11
-- Public repos: 1
+- Public repos: 2
 - Total stars (owned repos): 1
 - Profile updated: 2026-04-05
 
 ### Top Starred Repositories
 
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 1 stars
+- [Proposal](https://github.com/MrNayekOfficial/Proposal) - 0 stars
 
 ### Recently Updated Repositories
 
-- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-04-05
+- [Proposal](https://github.com/MrNayekOfficial/Proposal) - pushed 2026-04-06
+- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-04-06
 
 ### Recent Public Activity
 
+- [2026-04-06] PushEvent in `MrNayekOfficial/Proposal` (branch sync)
+- [2026-04-05] CreateEvent (branch) in `MrNayekOfficial/Proposal`
 - [2026-03-14] CreateEvent (branch) in `MrNayekOfficial/MrNayekOfficial`
 
 _This section is auto-updated every 6 hours by GitHub Actions._
