@@ -175,12 +175,6 @@ impl Developer for MrNayekOfficial {
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/Proposal">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=Proposal&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/MrNayekOfficial?tab=repositories">
     <img src="https://img.shields.io/badge/SEE%20ALL%20PROJECTS-081018?style=for-the-badge&logo=github&logoColor=13ffb1" />
   </a>
@@ -354,27 +348,21 @@ impl Developer for MrNayekOfficial {
 - Profile: [@MrNayekOfficial](https://github.com/MrNayekOfficial)
 - Followers: 6
 - Following: 11
-- Public repos: 2
+- Public repos: 1
 - Total stars (owned repos): 1
 - Profile updated: 2026-04-07
 
 ### Top Starred Repositories
 
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 1 stars
-- [Proposal](https://github.com/MrNayekOfficial/Proposal) - 0 stars
 
 ### Recently Updated Repositories
 
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-04-11
-- [Proposal](https://github.com/MrNayekOfficial/Proposal) - pushed 2026-04-06
 
 ### Recent Public Activity
 
-- [2026-04-06] PushEvent in `MrNayekOfficial/Proposal` (branch sync)
-- [2026-04-06] PushEvent in `MrNayekOfficial/Proposal` (branch sync)
-- [2026-04-06] PushEvent in `MrNayekOfficial/Proposal` (branch sync)
-- [2026-04-06] PushEvent in `MrNayekOfficial/Proposal` (branch sync)
-- [2026-04-06] PushEvent in `MrNayekOfficial/Proposal` (branch sync)
+- [2026-03-14] CreateEvent (branch) in `MrNayekOfficial/MrNayekOfficial`
 
 _This section is auto-updated every 6 hours by GitHub Actions._
 <!-- AUTO-DATA:END -->
