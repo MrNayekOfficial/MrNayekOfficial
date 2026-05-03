@@ -169,14 +169,14 @@ impl Developer for MrNayekOfficial {
 
 <!-- FEATURED-PROJECTS:START -->
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/MrNayekOfficial">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <a href="https://github.com/MrNayekOfficial/termux-proot-manager">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=termux-proot-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/termux-proot-manager">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=termux-proot-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <a href="https://github.com/MrNayekOfficial/MrNayekOfficial">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
@@ -352,15 +352,15 @@ impl Developer for MrNayekOfficial {
 ### Live Account Snapshot
 
 - Profile: [@MrNayekOfficial](https://github.com/MrNayekOfficial)
-- Followers: 7
+- Followers: 8
 - Following: 11
 - Public repos: 2
-- Total stars (owned repos): 1
+- Total stars (owned repos): 2
 - Profile updated: 2026-04-24
 
 ### Top Starred Repositories
 
-- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 1 stars
+- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 2 stars
 - [termux-proot-manager](https://github.com/MrNayekOfficial/termux-proot-manager) - 0 stars
 
 ### Recently Updated Repositories
