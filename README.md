@@ -370,11 +370,7 @@ impl Developer for MrNayekOfficial {
 
 ### Recent Public Activity
 
-- [2026-04-30] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
-- [2026-04-30] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
-- [2026-04-29] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
-- [2026-04-29] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
-- [2026-04-29] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
+- No recent public activity found.
 
 _This section is auto-updated every 6 hours by GitHub Actions._
 <!-- AUTO-DATA:END -->
