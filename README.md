@@ -169,6 +169,12 @@ impl Developer for MrNayekOfficial {
 
 <!-- FEATURED-PROJECTS:START -->
 <p align="center">
+  <a href="https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=SSHD_SERVER_AUTOMATION&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/MrNayekOfficial/MrNayekOfficial">
     <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
@@ -354,26 +360,28 @@ impl Developer for MrNayekOfficial {
 - Profile: [@MrNayekOfficial](https://github.com/MrNayekOfficial)
 - Followers: 9
 - Following: 11
-- Public repos: 2
+- Public repos: 3
 - Total stars (owned repos): 2
 - Profile updated: 2026-05-07
 
 ### Top Starred Repositories
 
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 2 stars
+- [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - 0 stars
 - [termux-proot-manager](https://github.com/MrNayekOfficial/termux-proot-manager) - 0 stars
 
 ### Recently Updated Repositories
 
+- [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - pushed 2026-05-24
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-05-24
 - [termux-proot-manager](https://github.com/MrNayekOfficial/termux-proot-manager) - pushed 2026-04-30
 
 ### Recent Public Activity
 
+- [2026-05-24] PushEvent in `MrNayekOfficial/SSHD_SERVER_AUTOMATION` (branch sync)
+- [2026-05-24] CreateEvent (branch) in `MrNayekOfficial/SSHD_SERVER_AUTOMATION`
 - [2026-04-30] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
 - [2026-04-30] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
-- [2026-04-29] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
-- [2026-04-29] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
 - [2026-04-29] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
 
 _This section is auto-updated every 6 hours by GitHub Actions._
