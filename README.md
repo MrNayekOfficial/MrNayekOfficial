@@ -372,7 +372,7 @@ impl Developer for MrNayekOfficial {
 
 ### Recently Updated Repositories
 
-- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-05-30
+- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-05-31
 - [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - pushed 2026-05-24
 - [termux-proot-manager](https://github.com/MrNayekOfficial/termux-proot-manager) - pushed 2026-04-30
 
@@ -380,8 +380,6 @@ impl Developer for MrNayekOfficial {
 
 - [2026-05-24] PushEvent in `MrNayekOfficial/SSHD_SERVER_AUTOMATION` (branch sync)
 - [2026-05-24] CreateEvent (branch) in `MrNayekOfficial/SSHD_SERVER_AUTOMATION`
-- [2026-04-30] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
-- [2026-04-30] PushEvent in `MrNayekOfficial/termux-proot-manager` (branch sync)
 
 _This section is auto-updated every 6 hours by GitHub Actions._
 <!-- AUTO-DATA:END -->
