@@ -358,7 +358,7 @@ impl Developer for MrNayekOfficial {
 ### Live Account Snapshot
 
 - Profile: [@MrNayekOfficial](https://github.com/MrNayekOfficial)
-- Followers: 11
+- Followers: 12
 - Following: 14
 - Public repos: 4
 - Total stars (owned repos): 5
