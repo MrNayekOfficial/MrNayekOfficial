@@ -175,14 +175,14 @@ impl Developer for MrNayekOfficial {
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/termux-proot-manager">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=termux-proot-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <a href="https://github.com/MrNayekOfficial/recipe-site">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=recipe-site&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=SSHD_SERVER_AUTOMATION&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <a href="https://github.com/MrNayekOfficial/termux-proot-manager">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=termux-proot-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
@@ -360,7 +360,7 @@ impl Developer for MrNayekOfficial {
 - Profile: [@MrNayekOfficial](https://github.com/MrNayekOfficial)
 - Followers: 12
 - Following: 14
-- Public repos: 4
+- Public repos: 5
 - Total stars (owned repos): 5
 - Profile updated: 2026-08-07
 
@@ -369,10 +369,12 @@ impl Developer for MrNayekOfficial {
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 3 stars
 - [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - 1 stars
 - [termux-proot-manager](https://github.com/MrNayekOfficial/termux-proot-manager) - 1 stars
+- [recipe-site](https://github.com/MrNayekOfficial/recipe-site) - 0 stars
 - [MrNayekOfficial.github.io](https://github.com/MrNayekOfficial/MrNayekOfficial.github.io) - 0 stars
 
 ### Recently Updated Repositories
 
+- [recipe-site](https://github.com/MrNayekOfficial/recipe-site) - pushed 2026-08-08
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-08-08
 - [MrNayekOfficial.github.io](https://github.com/MrNayekOfficial/MrNayekOfficial.github.io) - pushed 2026-08-06
 - [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - pushed 2026-05-24
@@ -380,7 +382,7 @@ impl Developer for MrNayekOfficial {
 
 ### Recent Public Activity
 
-- No recent public activity found.
+- [2026-08-08] CreateEvent (branch) in `MrNayekOfficial/recipe-site`
 
 _This section is auto-updated every 6 hours by GitHub Actions._
 <!-- AUTO-DATA:END -->
