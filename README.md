@@ -360,29 +360,27 @@ impl Developer for MrNayekOfficial {
 - Profile: [@MrNayekOfficial](https://github.com/MrNayekOfficial)
 - Followers: 12
 - Following: 15
-- Public repos: 5
+- Public repos: 4
 - Total stars (owned repos): 5
-- Profile updated: 2026-08-07
+- Profile updated: 2026-08-30
 
 ### Top Starred Repositories
 
 - [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 3 stars
 - [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - 1 stars
 - [termux-proot-manager](https://github.com/MrNayekOfficial/termux-proot-manager) - 1 stars
-- [recipe-site](https://github.com/MrNayekOfficial/recipe-site) - 0 stars
 - [MrNayekOfficial.github.io](https://github.com/MrNayekOfficial/MrNayekOfficial.github.io) - 0 stars
 
 ### Recently Updated Repositories
 
-- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-08-29
-- [recipe-site](https://github.com/MrNayekOfficial/recipe-site) - pushed 2026-08-08
+- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-08-30
 - [MrNayekOfficial.github.io](https://github.com/MrNayekOfficial/MrNayekOfficial.github.io) - pushed 2026-08-06
 - [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - pushed 2026-05-24
 - [termux-proot-manager](https://github.com/MrNayekOfficial/termux-proot-manager) - pushed 2026-04-30
 
 ### Recent Public Activity
 
-- [2026-08-08] CreateEvent (branch) in `MrNayekOfficial/recipe-site`
+- No recent public activity found.
 
 _This section is auto-updated every 6 hours by GitHub Actions._
 <!-- AUTO-DATA:END -->
