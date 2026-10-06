@@ -175,14 +175,14 @@ impl Developer for MrNayekOfficial {
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/c-language">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=c-language&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <a href="https://github.com/MrNayekOfficial/termux-proot-manager">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=termux-proot-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/termux-proot-manager">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=termux-proot-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <a href="https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=SSHD_SERVER_AUTOMATION&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
@@ -374,8 +374,8 @@ impl Developer for MrNayekOfficial {
 
 ### Recently Updated Repositories
 
+- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-10-06
 - [c-language](https://github.com/MrNayekOfficial/c-language) - pushed 2026-10-05
-- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-10-05
 - [Copy](https://github.com/MrNayekOfficial/Copy) - pushed 2026-09-26
 - [MrNayekOfficial.github.io](https://github.com/MrNayekOfficial/MrNayekOfficial.github.io) - pushed 2026-08-06
 - [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - pushed 2026-05-24
