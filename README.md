@@ -169,20 +169,20 @@ impl Developer for MrNayekOfficial {
 
 <!-- FEATURED-PROJECTS:START -->
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/MrNayekOfficial">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=MrNayekOfficial&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <a href="https://github.com/MrNayekOfficial/matir-sona">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=matir-sona&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/termux-proot-manager">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=termux-proot-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <a href="https://github.com/MrNayekOfficial/student-data">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=student-data&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=SSHD_SERVER_AUTOMATION&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
+  <a href="https://github.com/MrNayekOfficial/work-repo">
+    <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=MrNayekOfficial&repo=work-repo&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff0066&text_color=ffffff" />
   </a>
 </p>
 
@@ -358,27 +358,23 @@ impl Developer for MrNayekOfficial {
 ### Live Account Snapshot
 
 - Profile: [@MrNayekOfficial](https://github.com/MrNayekOfficial)
-- Followers: 14
-- Following: 15
-- Public repos: 6
-- Total stars (owned repos): 5
-- Profile updated: 2026-10-13
+- Followers: 0
+- Following: 1
+- Public repos: 3
+- Total stars (owned repos): 0
+- Profile updated: 2026-10-28
 
 ### Top Starred Repositories
 
-- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - 3 stars
-- [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - 1 stars
-- [termux-proot-manager](https://github.com/MrNayekOfficial/termux-proot-manager) - 1 stars
-- [c-language](https://github.com/MrNayekOfficial/c-language) - 0 stars
-- [Copy](https://github.com/MrNayekOfficial/Copy) - 0 stars
+- [matir-sona](https://github.com/MrNayekOfficial/matir-sona) - 0 stars
+- [student-data](https://github.com/MrNayekOfficial/student-data) - 0 stars
+- [work-repo](https://github.com/MrNayekOfficial/work-repo) - 0 stars
 
 ### Recently Updated Repositories
 
-- [MrNayekOfficial](https://github.com/MrNayekOfficial/MrNayekOfficial) - pushed 2026-10-27
-- [c-language](https://github.com/MrNayekOfficial/c-language) - pushed 2026-10-05
-- [Copy](https://github.com/MrNayekOfficial/Copy) - pushed 2026-09-26
-- [MrNayekOfficial.github.io](https://github.com/MrNayekOfficial/MrNayekOfficial.github.io) - pushed 2026-08-06
-- [SSHD_SERVER_AUTOMATION](https://github.com/MrNayekOfficial/SSHD_SERVER_AUTOMATION) - pushed 2026-05-24
+- [matir-sona](https://github.com/MrNayekOfficial/matir-sona) - pushed 2026-09-11
+- [student-data](https://github.com/MrNayekOfficial/student-data) - pushed 2026-09-03
+- [work-repo](https://github.com/MrNayekOfficial/work-repo) - pushed 2026-09-01
 
 ### Recent Public Activity
 
